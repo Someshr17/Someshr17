@@ -8,7 +8,8 @@
 
 ## Projects
 - British Airways Customer Review Analysis Dashboard
-
+- Netflix Movies & TV Shows Dashboard
+  
 ## Connect with me
 - Tableau Public: (paste link here later)
 - GitHub: https://github.com/Someshr17
