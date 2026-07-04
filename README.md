@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Somesh Rao 👋
 
-<!--
-**Someshr17/Someshr17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Metallurgical Engineering student at VNIT Nagpur  
+📊 Aspiring Data Analyst  
+📈 Skilled in Tableau, Excel, SQL  
+🚀 Building projects in Data Analytics  
+📍 India  
 
-Here are some ideas to get you started:
+## Projects
+- British Airways Customer Review Analysis Dashboard
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+- Tableau Public: (paste link here later)
+- GitHub: https://github.com/Someshr17
